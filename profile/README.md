@@ -15,11 +15,11 @@ This is the summary page for the Excellent Sign Language Works.
 
 **Works:**
 
-- [ACL 2026] **Stable Signer**: https://stablesigner.github.io
+- [2026 ACL Main] **Stable Signer**: https://stablesigner.github.io
 - [2025] **SignX**: https://signerx.github.io/SignX
-- [ICCVw 2024] **SignLLM**: https://signllm.github.io
-- [IEEE FGw 2023] **SignDiff**: https://signdiff.github.io
+- [2024 ICCVw] **SignLLM**: https://signllm.github.io
+- [2023 IEEE FGw] **SignDiff**: https://signdiff.github.io
 
 **Data:** 
 
-- [ICCVw 2024] **Prompt2Sign**: https://github.com/SignLLM/Prompt2Sign
+- [2024 ICCVw] **Prompt2Sign**: https://github.com/SignLLM/Prompt2Sign
