@@ -15,10 +15,10 @@ This is the summary page for the Excellent Sign Language Works.
 
 **Works:**
 
-- [2026] **Stable Signer**: https://stablesigner.github.io
-- [2025] **SignX**: https://signerx.github.io/SignX
-- [2024] **SignLLM**: https://signllm.github.io
-- [2023] **SignDiff**: https://signdiff.github.io
+- [2026] SLP: **Stable Signer**: https://stablesigner.github.io
+- [2025] SLR: **SignX**: https://signerx.github.io/SignX
+- [2024] SLP: **SignLLM**: https://signllm.github.io
+- [2023] SLP: **SignDiff**: https://signdiff.github.io
 
 **Data:** 
 
