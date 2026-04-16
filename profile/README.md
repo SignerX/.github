@@ -40,14 +40,14 @@ This is the summary page for the Excellent Sign Language Works.
 
 
 %SignX
-@misc{fang2025signx,
-  title        = {SignX: Continuous Sign Recognition in Compact Pose-Rich Latent Space},
-  author       = {Sen Fang and Yalin Feng and Chunyu Sui and Hongbin Zhong and Hongwei Yi and Dimitris N. Metaxas},
-  year         = {2025},
-  eprint       = {2504.16315},
-  archivePrefix= {arXiv},
-  primaryClass = {cs.CV},
-  url          = {https://arxiv.org/abs/2504.16315}
+@misc{fang2026signxcontinuoussignrecognition,
+      title={SignX: Continuous Sign Recognition in Compact Pose-Rich Latent Space}, 
+      author={Sen Fang and Yalin Feng and Chunyu Sui and Hongbin Zhong and Hongwei Yi and Dimitris N. Metaxas},
+      year={2026},
+      eprint={2504.16315},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.16315}, 
 }
 
 
