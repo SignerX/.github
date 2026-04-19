@@ -24,7 +24,7 @@ This is the summary page for the Excellent Sign Language Works.
 
 - [2024] **Prompt2Sign**: https://github.com/SignLLM/Prompt2Sign
 
-### BibTex:
+**BibTex:**
 
 <details>
   
