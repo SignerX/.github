@@ -15,10 +15,10 @@ This is the summary page for the Excellent Sign Language Works.
 
 **Works:**
 
-- [2026] SLP: **Stable Signer**: https://stablesigner.github.io | ACL Best Candidate & ICCV Demo
+- [2026] SLP: **Stable Signer**: https://stablesigner.github.io | ACL 2026 Best Candidate & ICCV 2025 Demo
 - [2025] SLR: **SignX**: https://signerx.github.io/SignX
-- [2024] SLP: **SignLLM**: https://signllm.github.io | ICCVw
-- [2023] SLP: **SignDiff**: https://signdiff.github.io | IEEE FGw 
+- [2024] SLP: **SignLLM**: https://signllm.github.io | ICCV 2025 w 
+- [2023] SLP: **SignDiff**: https://signdiff.github.io | IEEE FG 2025 w 
 
 **Data:** 
 
