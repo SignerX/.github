@@ -22,6 +22,7 @@ This is the summary page for the Excellent Sign Language Works.
 
 **Data:** 
 
+- [2026] **SignVerse-2M**: https://signerx.github.io/SignVerse-2M
 - [2024] **Prompt2Sign**: https://github.com/SignLLM/Prompt2Sign
 
 **BibTex:**
